@@ -1,0 +1,21 @@
+.cards {
+  border: none;
+  border-radius: 20px;
+  box-shadow: 3px 10px 30px black;
+}
+
+.cards:hover {
+  background-color: blue;
+  transition: 1s;
+  cursor: pointer;
+}
+
+
+.card-body:hover{
+    color: white;
+
+}
+
+.btn:hover{
+    background-color: white;
+}
